@@ -1,4 +1,4 @@
-[![MasterHead](https://chatai.mixerbox.com/image?key=01H6GDSHX1HDWBJ8Y1A1R9FZJJ)]
+![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Souvik Roy</h1>
 
