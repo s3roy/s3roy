@@ -16,7 +16,6 @@
 
 - 📄 Know about my experiences [https://souvik-portfolio.vercel.app/](https://souvik-portfolio.vercel.app/)
 
-- ⚡ Fun fact **I am available for freelancing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
